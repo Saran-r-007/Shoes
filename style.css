@@ -1,0 +1,59 @@
+body{
+    font-family: 'Times New Roman';
+    background-color:white;
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+header h1{
+    font-size: 40px;
+}
+
+header p{
+    font-size: 20px;
+}
+
+.a{
+    padding: 20px;
+}
+
+.a h2{
+    font-size: 30px;
+}
+
+.a hr{
+    width: 600px;
+    height: 4px;
+    background-color: black;
+}
+
+.b{
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    padding: 10px;
+    margin: 15px;
+}
+
+.c{
+    background-color: white;
+    width: 300px;
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    padding: 10px;
+    margin: 15px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
